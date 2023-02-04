@@ -1,0 +1,11 @@
+.header {
+    margin-top: 2vh;
+  }
+  
+  .headerImg{
+      width: 100vw;
+      height: 100vh;
+      margin-top: 5px;
+      object-fit: cover;
+  }
+  
