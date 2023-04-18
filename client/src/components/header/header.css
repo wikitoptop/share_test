@@ -1,0 +1,19 @@
+.header {
+  margin-top: 1vh;
+}
+
+.headerTitles {
+  flex-direction: column;
+  font-family: "Lora", serif;
+  color: rgb(25, 88, 128);
+  position: absolute;
+  top: 7.5vh;
+  font-size: 9vh;
+}
+
+.headerImg{
+    width: 100vw;
+    height: 100vh;
+    margin-top: 5px;
+    object-fit: cover;
+}

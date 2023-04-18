@@ -1,0 +1,18 @@
+
+.writeInput {
+    margin-top: 1.5vh;
+    position:sticky;
+    background-color: whitesmoke;
+    font-size: 28px;
+    border: none;
+    width: 99vw;
+  }
+
+  .settingsSubmit{
+    width: 100vw;
+    position: relative;
+    background-color: whitesmoke;
+    color: rgb(29, 132, 192);
+    cursor: pointer;
+    font-size: 30px;
+  }

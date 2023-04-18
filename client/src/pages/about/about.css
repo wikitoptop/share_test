@@ -1,0 +1,27 @@
+.header {
+    margin-top: 2vh;
+  }
+
+.headerImg{
+  width: 100vw;
+  height: 100vh;
+  margin-top: 5px;
+  object-fit: cover;
+}
+
+
+.writeInput {
+  margin-top: 1.5vh;
+  position:sticky;
+  background-color: whitesmoke;
+  font-size: 28px;
+  border: none;
+}
+
+.settingsSubmit{
+  position: relative;
+  background-color: whitesmoke;
+  color: rgb(29, 132, 192);
+  cursor: pointer;
+  font-size: 30px;
+}

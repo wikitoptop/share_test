@@ -1,0 +1,68 @@
+.write {
+  align-self: auto;
+  width: 99vw;
+  height: 80vh;
+  background-color: whitesmoke;
+  margin-top: 1vh;
+  border-radius: 10px;
+}
+
+.writeImg {
+  width: 99vw;
+  height: 30vh;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.writeForm {
+  height: 90vh;
+  background-color: whitesmoke;
+  position:sticky;
+}
+
+.writeFormGroup {
+  margin-top: 1.5vh;
+  position:sticky;
+  width: 99vw;
+  background-color: whitesmoke;
+  border: none;
+  display: flex;
+  align-items:center;
+}
+
+.writeInput {
+  margin-top: 1.5vh;
+  position:sticky;
+  background-color: whitesmoke;
+  font-size: 28px;
+  border: none;
+  width: 99vw;
+}
+
+.fileInput{
+  position:sticky;
+  font-size: 28px;
+  background-color: whitesmoke;
+  align-items:center; 
+  border: none;
+  width: 99vw;
+}
+.writeText {
+  height: 70vh;
+  background-color: whitesmoke;
+  width: 99vw;
+  font-family: "Lora", serif;
+  font-size: 28px;
+  border: none;
+}
+
+.writeSubmit {
+  width: 99vw;
+  position: relative;
+  background-color: whitesmoke;
+  color: rgb(29, 132, 192);
+  cursor: pointer;
+  font-size: 30px;
+}
+
+
